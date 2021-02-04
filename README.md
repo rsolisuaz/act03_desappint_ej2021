@@ -30,4 +30,5 @@ Para esta actividad, debe realizar la siguiente estructura de páginas con las c
 
 4. El archivo **favoritas.html** tendrá una lista sin orden con al menos 10 páginas favoritas que tenga (cada elemento de la lista deberá ser un hiperenlaces a la página correspondiente)
 
+5. En cada uno de los cuatro archivos es necesario colocar su nombre y matrícula como comentario (sustituir la línea 2 de cada archivo con esos datos)
 
