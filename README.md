@@ -14,7 +14,7 @@
 
 Para esta actividad, debe realizar la siguiente estructura de páginas con las características indicadas a continuación:
 
-![Jerarquia de Paginas](imagenes/imagenactividad03.png.png)
+![Jerarquia de Paginas](./imagenes/imagenactividad03.png.png)
 
 1. El archivo **index.html** deberá contener lo siguiente:
    - Un encabezado **h1** con su nombre completo
